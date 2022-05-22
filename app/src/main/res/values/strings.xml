@@ -1,0 +1,191 @@
+<resources>
+    <string name="app_name">INAI.KG</string>
+    <string name="city_name">Bishkek</string>
+
+    <string name="details_title">Details</string>
+    <string name="categories_title">Categories</string>
+    <string name="about_section_title">О месте :</string>
+    <string name="details_section_title">Детали</string>
+    <string name="details_address_title">Адрес:</string>
+    <string name="details_hours_title">Часы:</string>
+    <string name="details_phone_title">Телефон:</string>
+    <string name="details_call_btn">Звонить</string>
+    <string name="details_directions_btn">На карте</string>
+
+    <string name="cat_museums">Культура</string>
+    <string name="cat_parks">Парки</string>
+    <string name="cat_palaces">Торговые центры</string>
+    <string name="cat_monuments">Кафе</string>
+
+    <string name="cd_back_btn">Back Button</string>
+    <string name="cd_header_img">Header Image</string>
+    <string name="cd_header_ovrl">Header Overlay</string>
+    <string name="cd_content_bg">Content Background</string>
+    <string name="cd_category_item_bg">Category Item Background</string>
+    <string name="cd_category_item_arr">Open Item</string>
+    <string name="cd_main_bg_img">Main Background Image</string>
+    <string name="cd_fancy_btn">Fancy Button Icon</string>
+
+    <!--MUSEUMS-->
+    <string-array name="museums_names">
+        <item>Театр оперы и балета</item>
+        <item>Республиканская Библиотека имени К. Баялинова</item>
+        <item>Государственный исторический музей</item>
+        <item>Музей геологии и Музей минералогии</item>
+        <item>Государственный мемориальный дом-музей М. В. Фрунзе</item>
+
+    </string-array>
+    <string-array name="museums_addresses">
+        <item> 167 Советская,Бишкек</item>
+        <item>242 ул. Тынстанова, Бишкек</item>
+        <item>просп. Чуй, Бишкек</item>
+        <item>164 просп. Чуй, Бишкек</item>
+        <item>364 улица Фрунзе, Бишкек</item>
+
+    </string-array>
+    <string-array name="museums_descriptions">
+        <item>Кыргызский национальный академический театр оперы и балета им. Абдыласа Малдыбаева — театр оперы и балета в городе Бишкек, единственный оперный театр Киргизии. </item>
+        <item>Читательский билет выдается пользователю за плату в размере затрат, связанных с его изготовлением (40 сом в соответствии с действующим прейскурантом). Пенсионеры, инвалиды и участники войн получают читательский билет по льготной цене (10 сом в соответствии с действующим прейскурантом) по предъявлению соответствующего документа.</item>
+        <item>Кыргызский государственный исторический музей — музей, расположенный в Бишкеке, столице Киргизии. Один из крупнейших в Средней Азии.</item>
+        <item>Музей 1755 года в историческом здании, где проводятся выставки минералов и других геологических экспонатов.</item>
+        <item>Кыргызский государственный мемориальный дом-музей М. В. Фрунзе — музей в Бишкеке, посвящённый жизни, деятельности и памяти Михаила Васильевича Фрунзе. Расположен на улице, названной в его честь. В коллекции музея около 13 тысяч единиц хранения основного фонда.</item>
+    </string-array>
+    <string-array name="museums_hours">
+        <item>Понедельник &#8211; Пятница: 10:00&#8211;18:00</item>
+        <item>09:00 &#8211;18:00</item>
+        <item>Вторник &#8211; Воскресенье: 11:00&#8211;17:30</item>
+        <item>Вторник &#8211; Воскресенье: 11:00&#8211;18:00</item>
+        <item>Вторник &#8211; Воскресенье: 11:00&#8211;18:00</item>
+    </string-array>
+    <string-array name="museums_phones">
+        <item>0312 621 619</item>
+        <item>0312 621 641</item>
+        <item>0312 626 090</item>
+        <item>0312 610 597</item>
+        <item>0312 625 031</item>
+    </string-array>
+
+    <!--PARKS-->
+    <string-array name="parks_names">
+        <item>Парк победы</item>
+        <item>Парк Панфилова</item>
+        <item>Парк имени Фучика</item>
+        <item>Парк Любви</item>
+        <item>Дубовый парк</item>
+    </string-array>
+    <string-array name="parks_addresses">
+        <item>Масалиева, 28/9, Бишкек</item>
+        <item>г. Бишкек, улица Фрунзе, 370</item>
+        <item> Юлиуса Фучика, 6/1,Бишкек</item>
+        <item>Чынгыза Айтматова проспект, 90/2,Бишкек</item>
+        <item>205 ул. Абдумомунова, Бишкек</item>
+    </string-array>
+    <string-array name="parks_descriptions">
+        <item>Парк Победы им. Д. Асанова: адреса со входами на карте, отзывы, фото, номера телефонов, время работы и как доехать. Велосипеды, Батуты.</item>
+        <item>Панфиловский парк - это городской мемориал, расположенный недалеко от Старой площади и площади Манас в Бишкеке, столице Кыргызской Республики. Парк носит имя Героя Советского Союза и председателя Военного комитета Киргизской ССР Ивана Панфилова. </item>
+        <item>Ю́лиус Фу́чик — чехословацкий журналист, литературный и театральный критик, публицист, активист чехословацкой компартии. Находясь в нацистской тюрьме, написал книгу «Репортаж с петлёй на шее».</item>
+        <item>Любо́вь — чувство, свойственное человеку, глубокая привязанность и устремлённость к другому человеку или объекту, чувство глубокой симпатии. </item>
+        <item>Оживленный центральный парк: фонтаны, обширные лужайки и музей скульптур под открытым небом.</item>
+    </string-array>
+    <string-array name="parks_hours">
+        <item>24 часа в сутки</item>
+        <item>24 часа в сутки</item>
+        <item>24 часа в сутки</item>
+        <item>24 часа в сутки</item>
+        <item>24 часа в сутки</item>
+    </string-array>
+    <string-array name="parks_phones">
+        <item> </item>
+        <item>0771513599</item>
+        <item>0776616502</item>
+        <item>0772681453</item>
+        <item> </item>
+    </string-array>
+
+    <!--PALACES-->
+    <string-array name="palaces_names">
+        <item>Бишкек Парк</item>
+        <item>Вефа Центр</item>
+        <item>Азия Молл</item>
+        <item>Торгово-административный центр Весна (ТАЦ Весна)</item>
+        <item>Dordoi Plaza</item>
+    </string-array>
+    <string-array name="palaces_addresses">
+        <item>148 Киевская Бишкек, 720001</item>
+        <item>27, 1 ул Горького, Бишкек</item>
+        <item>3 просп. Мира, Бишкек</item>
+        <item>66 ул. Калыка Акиева, Бишкек 720001</item>
+        <item>ул.Ибраимова 115 Бишкек, 720021</item>
+    </string-array>
+    <string-array name="palaces_descriptions">
+        <item>Бишкек-парк - известный гипермаркет в центре Бишкека. Прекрасное место для шопинга, приятного и полезного времяпровождения, можно с детьми, есть возможность отдохнуть, перекусить.</item>
+        <item>VEFA–современный комфортный бизнес центр для вашего бизнеса и отдыха расположенный в самом сердце.</item>
+        <item>БОЛЕЕ 50 БРЕНДОВ. Asia Mall – это современный крупнейший в Кыргызстане торгово-развлекательный центр, расположенный в центре Бишкека!</item>
+        <item>Простой торговый центр с магазинами одежды и аксессуаров, супермаркетом и закусочными.</item>
+        <item>"ТРЦ "Дордой Плаза" - это мультифункциональный комплекс общей площадью более 70000 кв.м.</item>
+    </string-array>
+    <string-array name="palaces_hours">
+        <item>10:00&#8211;22:00</item>
+        <item>10:00&#8211;22:00</item>
+        <item>10:00&#8211;22:00</item>
+        <item>10:00&#8211;22:00</item>
+        <item>10:00&#8211;22:00</item>
+    </string-array>
+    <string-array name="palaces_phones">
+        <item>0312312031</item>
+        <item>0772554090</item>
+        <item>0551890040</item>
+        <item>0550106965</item>
+        <item>0770901212</item>
+    </string-array>
+
+    <!--MONUMENTS-->
+    <string-array name="cafes_names">
+        <item>SIERRA Coffee Ristorante - Dushanbinka</item>
+        <item>Navigator</item>
+        <item>Бублик</item>
+        <item>Кофейная 135</item>
+        <item>Boris Coffee and Bakery</item>
+        <item>Bellagio Coffee</item>
+    </string-array>
+    <string-array name="cafes_addresses">
+        <item>62 улица Токтоналиева, Бишкек</item>
+        <item>103 ул. Московская, Бишкек</item>
+        <item>1 ул. Тоголок Молдо, Бишкек</item>
+        <item>Moscovskaya 135, Бишкек</item>
+        <item>14 просп. Эркиндик, Бишкек</item>
+        <item>49 просп. Манаса, Бишкек 720000</item>
+    </string-array>
+    <string-array name="cafes_descriptions">
+        <item>"SIERRA Coffee Ristorante, точка которую наша команда с любовью называет SIERRA Душанбинка, является новейшей эволюцией SIERRA. Помимо места для коворкинга, вкусных закусок и свежего кофе, ожидаемого бишкекчанами, SIERRA Coffee Ristorante.</item>
+        <item>У нас огромный выбор пиццы, пасты и горячих блюд, приготовленных по традиционным итальянским рецептам. Например, тесто для пиццы производится по старинному рецепту, которому более 200 лет, а мука для его приготовления доставляется из Италии.</item>
+        <item>Наши повара долго экспериментировали и доводили до совершенства блюда, которые в итоге вошли в меню. У нас огромный выбор пиццы, пасты и горячих блюд, приготовленных по традиционным итальянским рецептам. Например, тесто для пиццы производится по старинному рецепту, которому более 200 лет</item>
+        <item>Кофейня «Кофейня 135». Средний счёт на человека 200–400 сом. Coffee 135.</item>
+        <item>Boris Coffee Bakery, кофейня: адреса со входами на карте, отзывы, фото, номера телефонов, время работы и как доехать. Средний чек 700 сом</item>
+        <item>Уютная кофейня в центре города. Есть завтраки, бизнес-ланчи и отличные десерты. Вежливый персонал, быстрое обслуживание. Приемлемые цены.</item>
+    </string-array>
+    <string-array name="cafes_hours">
+        <item>07:30–23:00</item>
+        <item>08:00–00:00</item>
+        <item>08:00–22:00</item>
+        <item>08:00–01:00</item>
+        <item>08:00–22:00</item>
+        <item>08:00–22:00</item>
+    </string-array>
+    <string-array name="cafes_phones">
+        <item>0770 969 690</item>
+        <item>0312665151</item>
+        <item>0551155555</item>
+        <item>0312622828</item>
+        <item>0555341166</item>
+        <item>787 584 104</item>
+    </string-array>
+
+    <string name="placeholder_name">National Museum of Romanian History</string>
+    <string name="placeholder_address">Calea Victoriei 12, Bucharest</string>
+    <string name="placeholder_description">The National Museum of Romanian History is a museum located on Calea Victoriei in Bucharest, Romania, which contains Romanian historical artifacts from prehistoric times up to modern times.</string>
+    <string name="placeholder_hours">09:00 &#8211; 17:00</string>
+    <string name="placeholder_phone">+40 21 315 8207</string>
+    <string name="placeholder_category_title">Category</string>
+
+</resources>
